@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+airflow/logs/
+postgres_data/
+minio_data/
+tmp/
